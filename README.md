@@ -8,3 +8,4 @@
 * Enfin c'est ce qu'on croyait, car un aveugle trouva le chien. 
 * Il le soigna et le vendit sur le marcher noir chinois
 * Son histoire s'est surement bien terminer. 
+* FIN
