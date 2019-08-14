@@ -1,6 +1,6 @@
 # Le chien qui courrait
 
-Format: ![Alt Text](https://media.giphy.com/media/3oEduEEt1Idb9g05IA/giphy.gif)
+![Alt Text](https://media.giphy.com/media/3oEduEEt1Idb9g05IA/giphy.gif)
 
 * Il était une fois, un chien qui courrait dans son jardin.
 * Un jour il se cassa une patte et **aboya de douleurs** mais continua sa course en boitant.
