@@ -6,6 +6,6 @@
 * Un jour il se cassa une patte et **aboya de douleurs** mais continua sa course en boitant.
 * Le lendemin, il se cassa une deuxième patte, ***mettant ainsi fin à cette histoire***.
 * Enfin c'est ce qu'on croyait, car un aveugle trouva le chien. 
-* Il le soigna et le vendit sur le marcher noir chinois
-* Son histoire s'est surement bien terminer. 
+* Il le soigna et le vendit sur le marché noir chinois
+* Son histoire s'est sûrement bien terminée. 
 * FIN
